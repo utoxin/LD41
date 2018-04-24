@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c462178a-6594-4656-b93a-199cd10c1e61" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.LD41/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LD41/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.LD41/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LD41/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game Code/Title Screen.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game Code/Title Screen.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
-    </list>
+    <list default="true" id="c462178a-6594-4656-b93a-199cd10c1e61" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -365,12 +360,12 @@
       <workItem from="1524318447216" duration="24353000" />
       <workItem from="1524414603069" duration="162000" />
       <workItem from="1524414789606" duration="18652000" />
-      <workItem from="1524521653984" duration="897000" />
+      <workItem from="1524521653984" duration="1111000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57028000" />
+    <option name="totallyTimeSpent" value="57242000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">

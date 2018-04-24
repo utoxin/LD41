@@ -489,9 +489,9 @@ MonoBehaviour:
     youtube.com/c/utoxinlp
 
 
-    Music By: Kevin MacLeod
 
-    Incompetech.com'
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 715b80e429c437e40867928a4e1fc975, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 715b80e429c437e40867928a4e1fc975, type: 2}
@@ -558,10 +558,10 @@ MonoBehaviour:
   m_margin: {x: -131.26361, y: -12.745087, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 203826548}
-    characterCount: 123
+    characterCount: 86
     spriteCount: 0
-    spaceCount: 12
-    wordCount: 20
+    spaceCount: 10
+    wordCount: 14
     linkCount: 0
     lineCount: 7
     pageCount: 1
