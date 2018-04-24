@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\utoxi\.Rider2018.1\System\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_LD41.-31087926.00" t="ExcludeRecursive" />
-    <e p="G:\Game Development\LD41" t="IncludeRecursive">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
-      <e p="Assets\EffectExamples" t="Include">
+      <e p="Assets/EffectExamples" t="Include">
         <e p="Shared" t="Include">
           <e p="Scripts" t="Include">
             <e p="DecalDestroyer.cs" t="Include" />
@@ -23,7 +22,7 @@
           </e>
         </e>
       </e>
-      <e p="Assets\Game Code" t="Include">
+      <e p="Assets/Game Code" t="Include">
         <e p="Managers" t="Include">
           <e p="GameManager.cs" t="Include" />
           <e p="ObstacleManager.cs" t="Include" />
@@ -47,7 +46,7 @@
           <e p="SetVelocityFromGameTime.cs" t="Include" />
         </e>
       </e>
-      <e p="Assets\Game Jam Template" t="Include">
+      <e p="Assets/Game Jam Template" t="Include">
         <e p="Fonts" t="Include">
           <e p="OpenSans" t="Include">
             <e p="License!.txt" t="Include" />
@@ -78,7 +77,7 @@
           </e>
         </e>
       </e>
-      <e p="Assets\Plugins" t="Include">
+      <e p="Assets/Plugins" t="Include">
         <e p="MHLab" t="Include">
           <e p="AutoSaver" t="Include">
             <e p="Editor" t="Include">
@@ -160,7 +159,7 @@
           </e>
         </e>
       </e>
-      <e p="Assets\PostProcessing" t="Include">
+      <e p="Assets/PostProcessing" t="Include">
         <e p="Editor" t="Include">
           <e p="Attributes" t="Include">
             <e p="PostProcessingModelEditorAttribute.cs" t="Include" />
@@ -314,7 +313,7 @@
           </e>
         </e>
       </e>
-      <e p="Assets\ProCore" t="Include">
+      <e p="Assets/ProCore" t="Include">
         <e p="ProGrids" t="Include">
           <e p="About" t="Include">
             <e p="changelog.txt" t="Include" />
@@ -346,10 +345,10 @@
           </e>
         </e>
       </e>
-      <e p="Assets\ReorderableArray" t="Include">
+      <e p="Assets/ReorderableArray" t="Include">
         <e p="NotReorderableAttribute.cs" t="Include" />
       </e>
-      <e p="Assets\Rewired" t="Include">
+      <e p="Assets/Rewired" t="Include">
         <e p="Documentation" t="Include">
           <e p="licences.txt" t="Include" />
           <e p="readme.txt" t="Include" />
@@ -490,7 +489,7 @@
           </e>
         </e>
       </e>
-      <e p="Assets\Standard Assets" t="Include">
+      <e p="Assets/Standard Assets" t="Include">
         <e p="CrossPlatformInput" t="Include">
           <e p="CrossPlatformInputGuidelines.txt" t="Include" />
           <e p="Scripts" t="Include">
@@ -546,7 +545,7 @@
           <e p="WaypointProgressTracker.cs" t="Include" />
         </e>
       </e>
-      <e p="Assets\TextMesh Pro" t="Include">
+      <e p="Assets/TextMesh Pro" t="Include">
         <e p="Examples &amp; Extras" t="Include">
           <e p="Fonts" t="Include">
             <e p="Anton OFL.txt" t="Include" />
@@ -619,5 +618,6 @@
         <e p="bin" t="ExcludeRecursive" />
       </e>
     </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_LD41.-1677164099.00" t="ExcludeRecursive" />
   </component>
 </project>

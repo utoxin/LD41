@@ -187,7 +187,7 @@ namespace Game_Code.PlayerCode {
 				_health -= 1;
 			}
 
-			if (_health == 0) {
+			if (_health <= 0) {
 				int score = GameManager.SharedInstance.GetScore();
 				int highScore = PlayerPrefs.GetInt("highScore", 0);
 
