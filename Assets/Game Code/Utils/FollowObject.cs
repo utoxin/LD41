@@ -8,7 +8,7 @@ namespace Game_Code.Utils {
 		public GameObject TargetObject;
 		public String LockCoordinate;
 
-		private void Update() {
+		private void FixedUpdate() {
 			Vector3 target = TargetObject.transform.position;
 			
 			if (LockCoordinate == "z") {
@@ -17,7 +17,7 @@ namespace Game_Code.Utils {
 				target.y = transform.position.y;
 			}
 
-			transform.position = Vector3.Lerp(transform.position, target, CatchupSpeed * Time.deltaTime);
+			transform.position = Vector3.Lerp(transform.position, target, CatchupSpeed * Time.fixedDeltaTime);
 		}
 	}
 }

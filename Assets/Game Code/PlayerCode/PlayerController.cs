@@ -87,7 +87,7 @@ namespace Game_Code.PlayerCode {
 
 			_primaryFireVector.x = _player.GetAxis("HorizAim");
 			_primaryFireVector.y = _player.GetAxis("VertAim");
-			_firePrimary         = _player.GetButton("FireMain") && _primaryFireVector != Vector3.zero;
+			_firePrimary         = _primaryFireVector.magnitude > 0.1f;
 
 			_fireSecondary = _player.GetButton("FireSecondary");
 		}
